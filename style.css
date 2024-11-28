@@ -1,3 +1,27 @@
 body{
-    background-color: cadetblue;
+    background-color:mistyrose;
+    
 }
+
+h1{
+    color: mediumvioletred;
+}
+.mainSection{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.namelogo{
+color: deeppink;
+font-size:larger;
+font-weight:bold;
+border: 2px solid deeppink;
+border-radius: 100%;
+background-color:plum;
+height: 40px;
+width: 50px;
+text-align: center;
+padding-top: 10px;
+}
+
